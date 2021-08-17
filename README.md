@@ -1,3 +1,8 @@
+Sebelum Menjalankan Aplikasi Mohon Rename Folder pendor menjadi vendor terlebih dahulu
+
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
